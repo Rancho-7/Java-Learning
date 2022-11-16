@@ -2,7 +2,7 @@
 
 **1.相关的体系结构**
 
-![chp1-1.png](../img/chp1/1.png)
+![chp0-1.png](../img/chp0/1.png)
 
 **（1）Executor**
 
@@ -146,4 +146,4 @@ public interface ScheduledExecutorService extends ExecutorService {
 
 最重要的一点，对于`Executors`**一般用于我们自己测试，不能用于生产环境！**
 
-![chp1-2.png](../img/chp1/2.png)
+![chp0-2.png](../img/chp0/2.png)
